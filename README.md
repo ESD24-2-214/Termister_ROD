@@ -18,9 +18,9 @@ Do a linear fit to get the 3 consts.
 Solve with matrix
 
 The calculated cooeffitions are
-A = 2.396442e-03
-B = -3.240759e-04 
-C = 8.87993e-07 
+A = 2.971506e-02 
+B = -4.145756e-03  
+C = 1.443975e-05 
 
 # Data
 ## 10 C
